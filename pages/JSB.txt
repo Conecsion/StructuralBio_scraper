@@ -1,0 +1,160 @@
+----------------------------------------------------------------------------
+Outside Front Cover 
+ Volume 215, Issue 1, March 2023, 107947 
+  
+  
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+CryoEM single particle reconstruction with a complex-valued particle stack 
+ Volume 215, Issue 2, June 2023, 107945 
+ Raquel Bromberg  
+  
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Patterns of crystal organization and calcite twin formation in planktonic, rotaliid, foraminifera shells and spines 
+ Volume 215, Issue 1, March 2023, 107898 
+ J. Lastam  
+ The foraminiferal order Rotaliida represents one third of the extant genera of foraminifers. The shells of these organisms are extensively used to decipher characteristics of marine ecosystems and global climate events. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Cryo-EM reveals the structure and dynamics of a 723-residue malate synthase G 
+ Volume 215, Issue 2, June 2023, 107958 
+ Meng-Ru Ho  
+ Determination of sub-100 kDa (kDa) structures by cryo-electron microscopy (EM) is a longstanding but not straightforward goal. Here, we present a 2.9-Å cryo-EM structure of a 723-amino acid apo-form malate synthase G (MSG) from Escherichia coli. The cryo-EM structure of the 82-kDa MSG exhibits the same global folding as structures resolved by crystallography and nuclear magnetic resonance (NMR) spectroscopy, and the crystal and cryo-EM structures are indistinguishable. Analyses of MSG dynamics reveal consistent conformational flexibilities among the three experimental approaches, most notably that the α/β domain exhibits structural heterogeneity. We observed that sidechains of F453, L454, M629, and E630 residues involved in hosting the cofactor acetyl-CoA and substrate rotate differently between the cryo-EM apo-form and complex crystal structures. Our work demonstrates that the cryo-EM technique can be used to determine structures and conformational heterogeneity of sub-100 kDa biomolecules to a quality as high as that obtained from X-ray crystallography and NMR spectroscopy. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Direct control of shell regeneration by the mantle tissue in the pearl oyster Pinctada fucata 
+ Volume 215, Issue 2, June 2023, 107956 
+ Jingliang Huang  
+ Molluscs rapidly repair the damaged shells to prevent further injury, which is vital for their survival after physical or biological aggression. However, it remains unclear how this process is precisely controlled. In this study, we applied scanning electronic microscope and histochemical analysis to examine the detailed shell regeneration process in the pearl oyster Pinctada fucata. It was found that the shell damage caused the mantle tissue to retract, which resulted in relocation of the partitioned mantle zones with respect to their correspondingly secreting shell layers. As a result, the relocated mantle tissue dramatically altered the shell morphology by initiating de novo precipitation of prismatic layers on the former nacreous layers, leading to the formation of sandwich-like “prism-nacre-prism-nacre” structure. Real-time PCR revealed the up-regulation of the shell matrix protein genes, which was confirmed by the thermal gravimetric analysis of the newly formed shell. The increased matrix secretion might have led to the change of CaCO3 precipitation dynamics which altered the mineral morphology and promoted shell formation. Taken together, our study revealed the close relationship between the physiological activities of the mantle tissue and the morphological change of the regenerated shells. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Editorial Board 
+ Volume 215, Issue 1, March 2023, 107950 
+  
+  
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Potential implications of the glycosylation patterns in collagen α1(I) and α2(I) chains for fibril assembly and growth 
+ Volume 215, Issue 1, March 2023, 107938 
+ D.R. Visser  
+ O-Glycosylation of hydroxylysine (Hyl) in collagen occurs at an early stage of biosynthesis before the triple-helix has formed. This simple post-translational modification (PTM) of lysine by either a galactosyl or glucosylgalactosyl moiety is highly conserved in collagens and depends on the species, type of tissue and the collagen amino acid sequence. The structural/functional reason why only specific lysines are modified is poorly understood, and has led to increased efforts to map the sites of PTMs on collagen sequences from different species and to ascertain their potential role in vivo. To investigate this, we purified collagen type I (Col1) from the skins of four animals, then used mass spectrometry and proteomic techniques to identify lysines that were oxidised, galactosylated, glucosylgalactosylated, or glycated in its mature sequence. We found 18 out of the 38 lysines in collagen type Iα1, (Col1A1) and 7 of the 30 lysines in collagen type Iα2 (Col1A2) were glycosylated. Six of these modifications had not been reported before, and included a lysine involved in crosslinking collagen molecules. A Fourier transform analysis of the positions of the glycosylated hydroxylysines showed they display a regular axial distribution with the same d-period observed in collagen fibrils. The significance of this finding in terms of the assembly of collagen molecules into fibrils and of potential restrictions on the growth of the collagen fibrils is discussed. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Single particle cryo-EM analysis of Rickettsia conorii Sca2 reveals a formin-like core 
+ Volume 215, Issue 2, June 2023, 107960 
+ Peter J. Carman  
+  
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+The crystal structure of Mycobacterium thermoresistibile MurE ligase reveals the binding mode of the substrate m-diaminopimelate 
+ Volume 215, Issue 2, June 2023, 107957 
+ Nicolas de Oliveira Rossini  
+ The cytoplasmatic biosynthesis of the stem peptide from the peptidoglycan in bacteria involves six steps, which have the role of three ATP-dependent Mur ligases that incorporate three consecutive amino acids to a substrate precursor. MurE is the last Mur ligase to incorporate a free amino acid. Although the structure of MurE from Mycobacterium tuberculosis (MtbMurE) was determined at 3.0 Å, the binding mode of meso-Diaminopimelate (m-DAP) and the effect of substrate absence is unknown. Herein, we show the structure of MurE from M. thermoresistibile (MthMurE) in complex with ADP and m-DAP at 1.4 Å resolution. The analysis of the structure indicates key conformational changes that the substrate UDP-MurNAc-L-Ala-D-Glu (UAG) and the free amino acid m-DAP cause on the MthMurE conformation. We observed several movements of domains or loop regions that displace their position in order to perform enzymatic catalysis. Since MthMurE has a high similarity to MtbMurE, this enzyme could also guide strategies for structure-based antimicrobial discovery to fight against tuberculosis or other mycobacterial infections. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Structural and biochemical insights into His-tag-induced higher-order oligomerization of membrane proteins by cryo-EM and size exclusion chromatography 
+ Volume 215, Issue 1, March 2023, 107924 
+ Nooraldeen Ayoub  
+  
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Revisiting the Ramachandran plot based on statistical analysis of static and dynamic characteristics of protein structures 
+ Volume 215, Issue 1, March 2023, 107939 
+ Soon Woo Park  
+ Ramachandran plots, which describe protein structures by plotting the dihedral angle pairs of the backbone on a two-dimensional plane, have played an important role in structural biology over the past few decades. However, despite continued discovery of new protein structures to date, the Ramachandran plot is still constructed by only a small number of data points, and further it cannot reflect the steric information of proteins. Here, we investigated the secondary structure of proteins in terms of static and dynamic characteristics. As for static feature, the Ramachandran plot was revisited for the dataset consisting of 9,148 non-redundant high-resolution protein structures released in the protein data bank until April 1, 2022. By calculating amino acid propensities, it was found that the proportion of secondary structures with respect to residue depth is directly related to their hydrophobicity. As for dynamic feature, normal mode analysis (NMA) based on an elastic network model (ENM) was carried out for the dataset using our KOSMOS web server (http://bioengineering.skku.ac.kr/kosmos/). All ENM-based NMA results were stored in the KOSMOS database, allowing researchers to use them in various ways. In this process, it was commonly found that high B-factors appeared at the edge of the alpha helix region, which was elucidated by introducing residue depth. In addition, by investigating the change in dihedral angle, it was possible to quantitatively survey the contribution of structural change of protein on the Ramachandran plot. In conclusion, our statistical analysis of protein characteristics will provide insight into a range of protein structural studies. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Cryo-EM structure of a eukaryotic zinc transporter at a low pH suggests its Zn2+-releasing mechanism 
+ Volume 215, Issue 1, March 2023, 107926 
+ Senfeng Zhang  
+ Zinc transporter 8 (ZnT8) is mainly expressed in pancreatic islet β cells and is responsible for H+-coupled uptake (antiport) of Zn2+ into the lumen of insulin secretory granules. Structures of human ZnT8 and its prokaryotic homolog YiiP have provided structural basis for constructing a plausible transport cycle for Zn2+. However, the mechanistic role that protons play in the transport process remains unclear. Here we present a lumen-facing cryo-EM structure of ZnT8 from Xenopus tropicalis (xtZnT8) in the presence of Zn2+ at a luminal pH (5.5). Compared to a Zn2+-bound xtZnT8 structure at a cytosolic pH (7.5), the low-pH structure displays an empty transmembrane Zn2+-binding site with a disrupted coordination geometry. Combined with a Zn2+-binding assay our data suggest that protons may disrupt Zn2+ coordination at the transmembrane Zn2+-binding site in the lumen-facing state, thus facilitating Zn2+ release from ZnT8 into the lumen. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Four-dimensional microED of conformational dynamics in protein microcrystals on the femto-to-microsecond timescales 
+ Volume 215, Issue 1, March 2023, 107941 
+ Daniel X. Du 
+  
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Cryo-EM image alignment: From pair-wise to joint with deep unsupervised difference learning 
+ Volume 215, Issue 1, March 2023, 107940 
+ Yu-Xuan Chen  
+ Cryo-electron microscopy (cryo-EM) single-particle analysis is a revolutionary imaging technique to resolve and visualize biomacromolecules. Image alignment in cryo-EM is an important and basic step to improve the precision of the image distance calculation. However, it is a very challenging task due to high noise and low signal-to-noise ratio. Therefore, we propose a new deep unsupervised difference learning (UDL) strategy with novel pseudo-label guided learning network architecture and apply it to pair-wise image alignment in cryo-EM. The training framework is fully unsupervised. Furthermore, a variant of UDL called joint UDL (JUDL), is also proposed, which is capable of utilizing the similarity information of the whole dataset and thus further increase the alignment precision. Assessments on both real-world and synthetic cryo-EM single-particle image datasets suggest the new unsupervised joint alignment method can achieve more accurate alignment results. Our method is highly efficient by taking advantages of GPU devices. The source code of our methods is publicly available at “http://www.csbio.sjtu.edu.cn/bioinf/JointUDL/” for academic use. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+New insights into the effect of mutations on affibody-Fc interaction, a molecular dynamics simulation approach 
+ Volume 215, Issue 1, March 2023, 107925 
+ Masoumeh Nosrati  
+ Staphylococcal protein A (SpA) domain B (the basis of affibody) has been widely used in affinity chromatography and found therapeutic applications against inflammatory diseases through targeting the Fc part of immunoglobulin G (IgG). We have performed extensive molecular dynamics simulation of 41 SpA mutants and compared their dynamics and conformations to wild type. The simulations revealed the molecular details of structural and dynamics changes that occurred due to introducing point mutations and helped to explain the SPR results. It was observed in some variants a point mutation caused extensive structural changes far from the mutation site, while an effect of some other mutations was limited to the site of the mutated residue. Also, the pattern of hydrogen bond networks and hydrophobic core arrangements were investigated. We figured out mutations that occurred at positions 128, 136, 150 and 153, affected two hydrophobic cores at the interface as well as mutations introduced at positions 129 and 154 interrupted two hydrogen bond networks of the interface, SPR data showed all of these mutations reduced binding affinity significantly. Overall, by scanning the SpA-Fc interface through the large numbers of introduced mutations, the new insights have been gained which would help to design high- affinity ligands of IgG. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+A RhoA structure with switch II flipped outward revealed the conformational dynamics of switch II region 
+ Volume 215, Issue 2, June 2023, 107942 
+ Hao Jiang  
+ Small GTPase RhoA switches from GTP-bound state to GDP-bound state by hydrolyzing GTP, which is accelerated by GTPases activating proteins (GAPs). However, less study of RhoA structural dynamic changes was conducted during this process, which is essential for understanding the molecular mechanism of GAP dissociation. Here, we solved a RhoA structure in GDP-bound state with switch II flipped outward. Because lacking the intermolecular interactions with guanine nucleotide, we proposed this conformation of RhoA could be an intermediate after GAP dissociation. Further molecular dynamics simulations found the conformational changes of switch regions are indeed existing in RhoA and involved in the regulation of GAP dissociation and GEF recognition. Besides, the guanine nucleotide binding pocket extended to switch II region, indicating a potential “druggable” cavity for RhoA. Taken together, our study provides a deeper understanding of the dynamic properties of RhoA switch regions and highlights the direction for future drug development. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Spectroscopic studies for identifying the chemical states of the periostracum of the Corbicula species in Lake Biwa 
+ Volume 215, Issue 1, March 2023, 107944 
+ Kuniko Takemoto  
+ Corbicula clam shells consist of thin periostracum and calcareous layers made of calcium carbonate (CaCO3). Depending on habitat conditions, the shell exhibits various colorations, such as yellow, brown, and black. The chemical state of the periostracum of the Corbicula species in Lake Biwa was studied by X-ray absorption fine structure (XAFS) and Raman scattering spectroscopies. Fe K-edge X-ray absorption near edge structure (XANES) revealed that the Fe3+ intensity increases as the color of the shell changes from yellow to black. Raman spectra suggested that quinone-based polymers cover the yellow shell, and the black shell is further covered by dihydroxyphenylalanine (DOPA) rings of amino acid derivatives. From Fe K-edge extended X-ray absorption fine structure (EXAFS), it was found that Fe3+ in the periostracum was surrounded by five to six oxygen atoms with an average Fe-O ligand distance of 2.0 Å. Accordingly, a tris-DOPA-Fe3+ complex is formed, which is responsible for the periostracum’s black color. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+High-resolution cryo-EM performance comparison of two latest-generation cryo electron microscopes on the human ribosome 
+ Volume 215, Issue 1, March 2023, 107905 
+ Léo Fréchin  
+ Recent technological advances in cryo electron microscopy (cryo-EM) have led to new opportunities in the structural biology field. Here we benchmark the performance of two 300 kV latest-generation cryo electron microscopes, Titan Krios G4 from Thermofisher Scientific and CRYO ARM 300 from Jeol, with regards to achieving high resolution single particle reconstructions on a real case sample. We compare potentially limiting factors such as drift rates, astigmatism & coma aberrations and performance during image processing and show that both microscopes, while comprising rather different technical setups & parameter settings and equipped with different types of energy filters & cameras, achieve a resolution of around 2 Å on the human ribosome, a non-symmetric object which constitutes a key drug target. Astigmatism correction, CTF refinement and correction of higher order aberrations through refinement in separate optics groups helped to account for astigmatism/coma caused by beam tilting during multi-spot and multi-hole acquisition in neighbouring holes without stage movement. The obtained maps resolve Mg2+ ions, water molecules, inhibitors and side-chains including chemical modifications. The fact that both instruments can resolve such detailed features will greatly facilitate understanding molecular mechanisms of various targets and helps in cryo-EM structure based drug design. The methods and analysis tools used here will be useful also to characterize existing instruments and optimize data acquisition settings and are applicable broadly to other drug targets in structural biology. 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Multishot tomography for high-resolution in situ subtomogram averaging 
+ Volume 215, Issue 1, March 2023, 107911 
+ S. Khavnekar  
+  
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Insights into the oligomeric structure of the HIV-1 Vpu protein 
+ Volume 215, Issue 1, March 2023, 107943 
+ Saman Majeed  
+ The HIV-1-encoded protein Vpu forms an oligomeric ion channel/pore in membranes and interacts with host proteins to support the virus lifecycle. However, Vpu molecular mechanisms are currently not well understood. Here, we report on the Vpu oligomeric organization under membrane and aqueous conditions and provide insights into how the Vpu environment affects the oligomer formation. For these studies, we designed a maltose-binding protein (MBP)-Vpu chimera protein and produced it in E. coli in soluble form. We analyzed this protein using analytical size-exclusion chromatography (SEC), negative staining electron microscopy (nsEM), and electron paramagnetic resonance (EPR) spectroscopy. Surprisingly, we found that MBP-Vpu formed stable oligomers in solution, seemingly driven by Vpu transmembrane domain self-association. A coarse modeling of nsEM data as well as SEC and EPR data suggests that these oligomers most likely are pentamers, similar to what was reported regarding membrane-bound Vpu. We also noticed reduced MBP-Vpu oligomer stability upon reconstitution of the protein in β-DDM detergent and mixtures of lyso-PC/PG or DHPC/DHPG. In these cases, we observed greater oligomer heterogeneity, with MBP-Vpu oligomeric order generally lower than in solution; however, larger oligomers were also present. Notably, we found that in lyso-PC/PG, above a certain protein concentration, MBP-Vpu assembles into extended structures, which had not been reported for Vpu. Therefore, we captured various Vpu oligomeric forms, which can shed light on Vpu quaternary organization. Our findings could be useful in understanding Vpu organization and function in cellular membranes and could provide information regarding the biophysical properties of single-pass transmembrane proteins. 
+----------------------------------------------------------------------------
+
+

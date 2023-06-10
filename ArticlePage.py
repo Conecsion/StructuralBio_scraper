@@ -15,9 +15,10 @@ class ArticlePage(Webpage):
         document = Document()
     def save(self,filename):
         with open(filename,'a',encoding='utf-8') as f:
-            f.write('----------------------------------------------------------------------------\n')
             f.write(f"{self.title} \n {self.date} \n {self.first_author} \n {self.abstract} \n")
-            f.write('----------------------------------------------------------------------------\n\n\n')
+            f.write('\n')
+            f.write('\n')
+            f.write('\n')
             #  f.write(self.title)
             #  f.write('\n')
             #  f.write(self.date)
@@ -55,7 +56,7 @@ class NatureArticlePage(ArticlePage):
             print(f"{url} has failed")
 
 
-class ScienceAtriclePage(ArticlePage):
+class ScienceArticlePage(ArticlePage):
     def __init__(self, url):
         super().__init__(url)
         try:
@@ -102,6 +103,6 @@ class NatureMethodsArticlePage(NatureArticlePage):
         super().__init__(url)
 
 
-class NatureBiotechnology(NatureArticlePage):
+class NatureBiotechnologyArticlePage(NatureArticlePage):
     def __init__(self,url):
         super().__init__(url)

@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
 from bs4 import BeautifulSoup
 import requests
 import os.path
@@ -18,7 +17,6 @@ class Webpage:
             self.__soup = BeautifulSoup(response.content, 'lxml')
         self.__content = self.__soup.prettify()
 
-
     def save(self, filename):
         with open(filename, "w", encoding="utf-8") as f:
             f.write(self.get_content())
@@ -28,5 +26,3 @@ class Webpage:
 
     def get_content(self):
         return self.__content
-
-
